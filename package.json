@@ -60,6 +60,7 @@
     "zustand": "^4.4.1"
   },
   "devDependencies": {
+    "@types/react-query": "^1.2.9",
     "@types/uuid": "^9.0.3",
     "prisma": "^5.2.0"
   }
